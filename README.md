@@ -16,3 +16,5 @@ Board measures 4" x 2.3"
 * Channel pots are Bourns PTD902-2020K-A103
 * Master (switched) pot is Bourns PTR902-2020K-A103
 * DC Barrel jack is a standard CUI PJ-202A
+* All capacitors are 6.30mm diameter, 2.5mm lead spacing.
+* All resistors are the little 3.30mm guys
