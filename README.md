@@ -5,7 +5,7 @@ Simple active line mixer with input buffers.
 All through-hole components. 
 Uses OPA134 for buffers and summing.
 
-Board measures 4" x 2.3"
+Board measures 3.8" x 2.2"
 
 ![Board](/linemixer2.brd.png?raw=true)
 
